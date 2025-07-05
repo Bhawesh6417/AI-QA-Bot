@@ -1,0 +1,6 @@
+streamlit
+python-dotenv
+sentence-transformers
+faiss-cpu
+PyPDF2
+requests
